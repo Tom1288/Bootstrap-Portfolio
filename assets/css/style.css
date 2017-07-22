@@ -1,0 +1,72 @@
+/* Header */
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    background: #4aaaa5;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #fff;
+    background: #4aaaa5;
+}
+
+
+/* General */
+
+.main-section{
+  align-content: center;
+  padding: 30px;
+  margin: 0 0 40px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.mainhead {
+    font-size: 58px;
+    color: #4aaaa5;
+    font-weight: bold;
+}
+
+.page-header{
+   border-bottom: 3px solid #ddd;
+
+}
+
+/* Form Page */
+
+#message {
+  height: 200px;
+}
+
+/*Portfolio Page*/
+
+img {
+	width: 100%;
+	border: 0 none;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+h3 {
+ position: absolute;
+ color: yellow;
+ top: 150px;
+ left: 30px;
+ text-align: center;
+ width: 90.5%;
+ background: #4aaaa5;
+}
+
+
+/* Footer */
+
+footer {
+  padding: 30px 0;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+}
